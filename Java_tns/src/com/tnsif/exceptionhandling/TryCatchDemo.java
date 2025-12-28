@@ -25,7 +25,7 @@ public class TryCatchDemo {
 
 		System.out.println("------------------------------");
 		System.out.println(TryCatchExample.performDivision(12f, 0f));
-
+		System.out.println("Updated version");
 	}
 	
 }
