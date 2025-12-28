@@ -28,6 +28,7 @@ public class ThrowsExample {
         } finally {
             System.out.println("Program completed.");
             scanner.close();
-}
+            System.out.println("Throws example executed");
+            }
     }
 }
