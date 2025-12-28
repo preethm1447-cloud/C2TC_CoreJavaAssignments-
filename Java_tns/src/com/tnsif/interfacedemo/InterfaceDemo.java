@@ -18,7 +18,7 @@ public class InterfaceDemo implements Shape{
 		
 		InterfaceDemo id = new InterfaceDemo();
 		id.draw();
-		
+		System.out.println("Updated version");
 		
 
 		
